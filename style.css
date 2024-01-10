@@ -1,0 +1,25 @@
+#canvas {
+  background-image: url("image/sunset.jpg");
+  
+ 
+}
+/* Name Badge */
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow:hidden;
+}
+#controls {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 1000;
+}
+
+button {
+  margin: 5px;
+  padding: 5px 10px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
